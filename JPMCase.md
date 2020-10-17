@@ -1,5 +1,7 @@
 # JPM CASE STUDY
+*Henna Singh & Arzu Isik Topbas*
 
+![JPM Coin](https://s3.cointelegraph.com/storage/uploads/view/00497b9003dea4a271f8bd5ebc49b677.jpg)
 
 ### Q1 - background of company, competition.
 JP Morgan is a multinational investment bank and financial services holding company; JP Morgan Coin is a digital coin designed to make instant payments using blockchain technology. The JP morgan coin is a digital coin that represents the value of one U.S. Dollar.
@@ -12,5 +14,5 @@ JP Morgan uses technology like Blockchain to its advantage by being one of the f
  
 ### Q3- Why is this company exemplary in the FinTech space?
 JP Morgan announced JPM Coin which is digital coin that allow institutional customers to make instantaneous payments to other institutional customers using blockchain technology. 
-
+---
 [reference link](https://www.cryptopolitan.com/the-competitors-are-coming-sounds-warning-jpmorgan-chase-ceo/)
