@@ -13,6 +13,8 @@ JP Morgan uses technology like Blockchain to its advantage by being one of the f
 
  
 ### Q3- Why is this company exemplary in the FinTech space?
-JP Morgan announced JPM Coin which is digital coin that allow institutional customers to make instantaneous payments to other institutional customers using blockchain technology. 
+JP Morgan announced JPM Coin which is digital coin that allow institutional customers to make instantaneous payments to other institutional customers using blockchain technology.
+
 ---
+
 [reference link](https://www.cryptopolitan.com/the-competitors-are-coming-sounds-warning-jpmorgan-chase-ceo/)
