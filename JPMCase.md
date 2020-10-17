@@ -18,3 +18,6 @@ JP Morgan announced JPM Coin which is digital coin that allow institutional cust
 ---
 
 [reference link](https://www.cryptopolitan.com/the-competitors-are-coming-sounds-warning-jpmorgan-chase-ceo/)
+
+---
+
